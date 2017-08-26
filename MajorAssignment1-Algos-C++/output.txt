@@ -1,0 +1,56 @@
+
+*********************************
+*     Assignment 1              *
+*     (r)ead file               *
+*     (b)uild tree              *
+*     (d)isplay tree            *
+*     (q)uit                    *
+*********************************
+Command: r
+
+Enter the name of the file (ie words.txt)
+test.txt
+Finished loading file
+
+*********************************
+*     Assignment 1              *
+*     (r)ead file               *
+*     (b)uild tree              *
+*     (d)isplay tree            *
+*     (q)uit                    *
+*********************************
+Command: b
+Building tree
+Finished Building tree
+
+*********************************
+*     Assignment 1              *
+*     (r)ead file               *
+*     (b)uild tree              *
+*     (d)isplay tree            *
+*     (q)uit                    *
+*********************************
+Command: d
+Printing first 10 Ascending.
+       the                  20
+       and                  14
+        he                   7
+        in                   6
+jabberwock                   3
+        my                   3
+   through                   3
+       all                   2
+        as                   2
+    beware                   2
+
+Printing last 10.
+      thou                   1
+      time                   1
+        to                   1
+      took                   1
+      tree                   1
+    tulgey                   1
+    tumtum                   1
+    uffish                   1
+ whiffling                   1
+      wood                   1
